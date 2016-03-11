@@ -1,0 +1,35 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BDBOAuth1Manager (1.4.0):
+    - AFNetworking/NSURLConnection (~> 2.4.0)
+    - AFNetworking/NSURLSession (~> 2.4.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BDBOAuth1Manager
+
+SPEC CHECKSUMS:
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  BDBOAuth1Manager: c99ab8d5ff9cf86f5da58b1939adb9642f7272e8
+
+COCOAPODS: 0.39.0
