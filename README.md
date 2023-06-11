@@ -22,5 +22,5 @@ Walkthrough of all user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-
-
+Initial commits from:
+tejal-par user (same as this user)
